@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80.182" height="67.795" viewBox="0 0 80.182 67.795">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #3f62a8;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 9px;
+      }
+    </style>
+  </defs>
+  <g id="_13251028091543238941" data-name="13251028091543238941" transform="translate(3.5 2.055)">
+    <path id="Pfad_469" data-name="Pfad 469" class="cls-1" d="M52.769,34.413V27.942A12.942,12.942,0,0,0,39.827,15H13.942A12.942,12.942,0,0,0,1,27.942v6.471" transform="translate(0 26.827)"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" class="cls-1" cx="13" cy="13" r="13" transform="translate(14 3.24)"/>
+    <path id="Pfad_470" data-name="Pfad 470" class="cls-1" d="M29.707,34.123V27.652A12.942,12.942,0,0,0,20,15.13" transform="translate(42.475 27.117)"/>
+    <path id="Pfad_471" data-name="Pfad 471" class="cls-1" d="M16,3.13a12.942,12.942,0,0,1,0,25.076" transform="translate(33.533 0.291)"/>
+  </g>
+</svg>

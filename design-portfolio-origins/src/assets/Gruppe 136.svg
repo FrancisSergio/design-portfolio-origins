@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1662.921" height="1445.394" viewBox="0 0 1662.921 1445.394">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-5, .cls-8, .cls-9 {
+        fill: #707070;
+      }
+
+      .cls-1 {
+        font-size: 48px;
+      }
+
+      .cls-1, .cls-4, .cls-8 {
+        font-family: Inter-Bold, Inter;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-8 {
+        font-size: 32px;
+      }
+
+      .cls-2, .cls-5, .cls-9 {
+        font-family: Inter-Regular, Inter;
+      }
+
+      .cls-10, .cls-3 {
+        fill: #54aaff;
+      }
+
+      .cls-4, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5 {
+        font-size: 24px;
+      }
+
+      .cls-12, .cls-13, .cls-7 {
+        fill: none;
+      }
+
+      .cls-12, .cls-7 {
+        stroke: #3f62a8;
+      }
+
+      .cls-7 {
+        stroke-width: 10px;
+      }
+
+      .cls-10, .cls-13, .cls-14, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-9 {
+        font-size: 16px;
+      }
+
+      .cls-11, .cls-14 {
+        fill: #3f62a8;
+      }
+
+      .cls-12 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 9px;
+      }
+
+      .cls-15 {
+        filter: url(#Rechteck_76);
+      }
+
+      .cls-16 {
+        filter: url(#Rechteck_3);
+      }
+    </style>
+    <filter id="Rechteck_3" x="56.921" y="884.394" width="1606" height="561" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rechteck_76" x="56.921" y="884.394" width="1606" height="561" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_136" data-name="Gruppe 136" transform="translate(-109.079 -1112.606)">
+    <text id="Hallo." class="cls-1" transform="translate(960 1253)"><tspan x="0" y="0">Hallo.</tspan></text>
+    <text id="Ich_bin_ein_junger_Student_der_davon_träumt_Designer_zu_sein." data-name="Ich bin ein junger Student,
+der davon träumt, Designer 
+zu sein." class="cls-2" transform="translate(960 1331)"><tspan x="0" y="0">Ich bin ein junger Student,</tspan><tspan x="0" y="39">der davon träumt, Designer </tspan><tspan x="0" y="78">zu sein.</tspan></text>
+    <rect id="Rechteck_4" data-name="Rechteck 4" class="cls-3" width="276" height="63" transform="translate(960 1710)"/>
+    <text id="Kontakt" class="cls-4" transform="translate(1052 1750)"><tspan x="0" y="0">Kontakt</tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_aliquyam_erat_sed_diam_voluptua._At_vero_eos_et_accusam_et_justo_duo_dolores_et_ea_rebum._Stet_clita_kasd_gubergren_no_sea_takimata_" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata " class="cls-5" transform="translate(960 1456)"><tspan x="0" y="23">Lorem ipsum dolor sit amet, consetetur </tspan><tspan x="0" y="55">sadipscing elitr, sed diam nonumy eirmod </tspan><tspan x="0" y="87">tempor invidunt ut labore et dolore magna </tspan><tspan x="0" y="119">aliquyam erat, sed diam voluptua. At vero </tspan><tspan x="0" y="151">eos et accusam et justo duo dolores et ea </tspan><tspan x="0" y="183">rebum. Stet clita kasd gubergren, no sea </tspan></text>
+    <g class="cls-16" transform="matrix(1, 0, 0, 1, 109.08, 1112.61)">
+      <rect id="Rechteck_3-2" data-name="Rechteck 3" class="cls-6" width="1576" height="531" transform="translate(71.92 889.39)"/>
+    </g>
+    <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(-50 93.507)">
+      <path id="Pfad_1" data-name="Pfad 1" class="cls-7" d="M69.29-241.389l.082.059,3.846,2.849,3.774,2.968.229.189L80.49-232.6l.622.535,3.046,2.7.413.371,3.444,3.23,3.168,3.148.755.778,2.406,2.533.806.87,2.656,2.963.344.388,2.9,3.43.714.882,2.073,2.6.913,1.182,1.886,2.513.821,1.113,2.514,3.561.466.695,1.977,2.981.892,1.4,1.489,2.393.91,1.5,1.5,2.583.736,1.281,2.006,3.689.8,1.56,1.206,2.383.875,1.8,1.06,2.257.834,1.821,1.178,2.716.5,1.168.621,1.54L128-165.6l.787,2.089.753,2.063.769,2.2.667,2.014.729,2.248,1.119,3.753.681,2.494.472,1.779.637,2.573.394,1.688.6,2.7.249,1.235.56,2.83.554,3.192.14.823.458,3.076.178,1.284.391,3.13.108,1.007.331,3.3a166.826,166.826,0,0,1-69.287,14.966A166.855,166.855,0,0,1,0-120.129,167.551,167.551,0,0,1,69.29-241.389Z" transform="translate(560.578 1898.332) rotate(-180)"/>
+      <text id="Kreativ" class="cls-8" transform="translate(435 2205)"><tspan x="0" y="0">Kreativ</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna " class="cls-9" transform="translate(345 2247)"><tspan x="41.068" y="16">Lorem ipsum dolor sit amet, </tspan><tspan x="7.432" y="40">consetetur sadipscing elitr, sed diam </tspan><tspan x="16.097" y="64">nonumy eirmod tempor invidunt ut </tspan><tspan x="58.591" y="88">labore et dolore magna </tspan></text>
+    </g>
+    <g id="Gruppe_2" data-name="Gruppe 2" transform="translate(479 93.507)">
+      <path id="Pfad_1-2" data-name="Pfad 1" class="cls-7" d="M69.29-241.389l.082.059,3.846,2.849,3.774,2.968.229.189L80.49-232.6l.622.535,3.046,2.7.413.371,3.444,3.23,3.168,3.148.755.778,2.406,2.533.806.87,2.656,2.963.344.388,2.9,3.43.714.882,2.073,2.6.913,1.182,1.886,2.513.821,1.113,2.514,3.561.466.695,1.977,2.981.892,1.4,1.489,2.393.91,1.5,1.5,2.583.736,1.281,2.006,3.689.8,1.56,1.206,2.383.875,1.8,1.06,2.257.834,1.821,1.178,2.716.5,1.168.621,1.54L128-165.6l.787,2.089.753,2.063.769,2.2.667,2.014.729,2.248,1.119,3.753.681,2.494.472,1.779.637,2.573.394,1.688.6,2.7.249,1.235.56,2.83.554,3.192.14.823.458,3.076.178,1.284.391,3.13.108,1.007.331,3.3a166.826,166.826,0,0,1-69.287,14.966A166.855,166.855,0,0,1,0-120.129,167.551,167.551,0,0,1,69.29-241.389Z" transform="translate(560.578 1898.332) rotate(-180)"/>
+      <text id="Kreativ-2" data-name="Kreativ" class="cls-8" transform="translate(435 2205)"><tspan x="0" y="0">Kreativ</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_2" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna " class="cls-9" transform="translate(345 2247)"><tspan x="41.068" y="16">Lorem ipsum dolor sit amet, </tspan><tspan x="7.432" y="40">consetetur sadipscing elitr, sed diam </tspan><tspan x="16.097" y="64">nonumy eirmod tempor invidunt ut </tspan><tspan x="58.591" y="88">labore et dolore magna </tspan></text>
+    </g>
+    <g id="Gruppe_3" data-name="Gruppe 3" transform="translate(1007 93.507)">
+      <path id="Pfad_1-3" data-name="Pfad 1" class="cls-7" d="M69.29-241.389l.082.059,3.846,2.849,3.774,2.968.229.189L80.49-232.6l.622.535,3.046,2.7.413.371,3.444,3.23,3.168,3.148.755.778,2.406,2.533.806.87,2.656,2.963.344.388,2.9,3.43.714.882,2.073,2.6.913,1.182,1.886,2.513.821,1.113,2.514,3.561.466.695,1.977,2.981.892,1.4,1.489,2.393.91,1.5,1.5,2.583.736,1.281,2.006,3.689.8,1.56,1.206,2.383.875,1.8,1.06,2.257.834,1.821,1.178,2.716.5,1.168.621,1.54L128-165.6l.787,2.089.753,2.063.769,2.2.667,2.014.729,2.248,1.119,3.753.681,2.494.472,1.779.637,2.573.394,1.688.6,2.7.249,1.235.56,2.83.554,3.192.14.823.458,3.076.178,1.284.391,3.13.108,1.007.331,3.3a166.826,166.826,0,0,1-69.287,14.966A166.855,166.855,0,0,1,0-120.129,167.551,167.551,0,0,1,69.29-241.389Z" transform="translate(560.578 1898.332) rotate(-180)"/>
+      <text id="Kreativ-3" data-name="Kreativ" class="cls-8" transform="translate(435 2205)"><tspan x="0" y="0">Kreativ</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_3" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna " class="cls-9" transform="translate(345 2247)"><tspan x="41.068" y="16">Lorem ipsum dolor sit amet, </tspan><tspan x="7.432" y="40">consetetur sadipscing elitr, sed diam </tspan><tspan x="16.097" y="64">nonumy eirmod tempor invidunt ut </tspan><tspan x="58.591" y="88">labore et dolore magna </tspan></text>
+    </g>
+    <path id="Pfad_2" data-name="Pfad 2" class="cls-10" d="M311.781-241.389l.371.264L329.458-228.3l16.981,13.357,1.031.848,14.708,12.275,2.8,2.407,13.708,12.133,1.856,1.668,15.5,14.535,14.256,14.165,3.4,3.5,10.825,11.4,3.629,3.913,11.95,13.332,1.549,1.747,13.047,15.434,3.212,3.966,9.327,11.706L471.34-86.6l8.487,11.308,3.692,5.008L494.832-54.26l2.095,3.126,8.9,13.415,4.012,6.3,6.7,10.769,4.1,6.767L527.4-2.257l3.311,5.764,9.027,16.6,3.616,7.021,5.427,10.724,3.936,8.093L557.488,56.1l3.753,8.195,5.3,12.222,2.263,5.257L571.6,88.7l4.358,10.922,3.54,9.4,3.388,9.284,3.459,9.884,3,9.061,3.278,10.116,5.036,16.889,3.062,11.223,2.125,8,2.867,11.578,1.775,7.6,2.7,12.151,1.122,5.559,2.519,12.733,2.491,14.361.63,3.7,2.062,13.843.8,5.779,1.757,14.086.488,4.529,1.491,14.841a750.658,750.658,0,0,1-311.766,67.342A750.789,750.789,0,0,1,0,304.24C19.863,79.722,138.276-116.648,311.781-241.389Z" transform="matrix(-0.829, 0.559, -0.559, -0.829, 833.819, 1420.666)"/>
+    <path id="_13467669391579237617" data-name="13467669391579237617" class="cls-11" d="M46,0A30.282,30.282,0,0,0,16,30.3c0,10.2,4,18.4,12,23.9V64a4.458,4.458,0,0,0,4.3,4h.4l27.5-2.2a4.206,4.206,0,0,0,3.9-4V54.3a29.8,29.8,0,0,0,12-24C76,13.6,62.4,0,46,0ZM58,48.5A3.946,3.946,0,0,0,56,52v6.1L36,59.7V52a4.1,4.1,0,0,0-1.8-3.5c-6.9-4-10.1-10-10.1-18.2a21.953,21.953,0,1,1,43.9,0C67.9,38.3,64.3,45.1,58,48.5Zm5.6,25.8a4.02,4.02,0,0,1-3.7,4.3l-27.3,2h-.3a4.005,4.005,0,0,1-.3-8l27.3-2A3.906,3.906,0,0,1,63.6,74.3ZM54.9,86.9a4.02,4.02,0,0,1-3.7,4.3l-9.8.8h-.3a4.005,4.005,0,0,1-.3-8l9.9-.8A3.937,3.937,0,0,1,54.9,86.9Zm7-56.7a3.565,3.565,0,0,1-3.5,3.2h-.3A3.474,3.474,0,0,1,55,29.6a7.658,7.658,0,0,0-5-8,3.609,3.609,0,0,1-2.1-4.5A3.377,3.377,0,0,1,52.3,15C56,16.3,62.8,21.2,61.9,30.2Z" transform="translate(395 2110)"/>
+    <g id="_13251028091543238941" data-name="13251028091543238941" transform="translate(933 2114.76)">
+      <path id="Pfad_469" data-name="Pfad 469" class="cls-12" d="M52.769,34.413V27.942A12.942,12.942,0,0,0,39.827,15H13.942A12.942,12.942,0,0,0,1,27.942v6.471" transform="translate(0 26.827)"/>
+      <circle id="Ellipse_12" data-name="Ellipse 12" class="cls-12" cx="13" cy="13" r="13" transform="translate(14 3.24)"/>
+      <path id="Pfad_470" data-name="Pfad 470" class="cls-12" d="M29.707,34.123V27.652A12.942,12.942,0,0,0,20,15.13" transform="translate(42.475 27.117)"/>
+      <path id="Pfad_471" data-name="Pfad 471" class="cls-12" d="M16,3.13a12.942,12.942,0,0,1,0,25.076" transform="translate(33.533 0.291)"/>
+    </g>
+    <g id="Icons" transform="translate(1451.404 2101.58)">
+      <g id="Rounded" transform="translate(-2 -3)">
+        <g id="Content">
+          <g id="_-Round-_-Content-_-waves" data-name="-Round-/-Content-/-waves">
+            <g id="Gruppe_104" data-name="Gruppe 104">
+              <path id="Path" class="cls-13" d="M0,0H97.016V97.016H0Z"/>
+              <path id="_Icon-Color" data-name="🔹Icon-Color" class="cls-14" d="M62.635,57.544A24.108,24.108,0,0,0,50.71,60.778c-2.628,1.334-4.77,2.425-8.287,2.425-3.638,0-5.659-1.011-8.287-2.425-3.032-1.536-6.346-3.234-11.925-3.234s-8.893,1.7-11.925,3.234a22.509,22.509,0,0,1-5.134,2.1A3.83,3.83,0,0,0,2,66.559v.4a3.8,3.8,0,0,0,4.608,3.679,27.386,27.386,0,0,0,7.317-2.789c2.628-1.334,4.73-2.425,8.287-2.425s5.659,1.011,8.287,2.425c3.032,1.536,6.346,3.234,11.925,3.234s8.893-1.7,11.925-3.234c2.628-1.334,4.77-2.425,8.287-2.425,3.638,0,5.659,1.011,8.287,2.425a27.99,27.99,0,0,0,7.4,2.83A3.8,3.8,0,0,0,82.847,67V66.64a3.876,3.876,0,0,0-3.193-3.719,19.119,19.119,0,0,1-5.093-2.1A23.669,23.669,0,0,0,62.635,57.544Zm0-17.988c-5.457,0-8.893,1.738-11.925,3.234-2.628,1.294-4.77,2.425-8.287,2.425-3.638,0-5.659-1.011-8.287-2.425-3.032-1.536-6.346-3.234-11.925-3.234s-8.893,1.738-11.925,3.234a23.962,23.962,0,0,1-5.174,2.1A3.833,3.833,0,0,0,2,48.57v.4a3.756,3.756,0,0,0,4.527,3.679,29.493,29.493,0,0,0,7.4-2.789c2.628-1.415,4.649-2.425,8.287-2.425s5.659,1.011,8.287,2.425C33.53,51.4,36.845,53.1,42.423,53.1s8.893-1.738,11.925-3.234c2.628-1.415,4.649-2.425,8.287-2.425s5.659,1.011,8.287,2.425a27.989,27.989,0,0,0,7.4,2.83,3.8,3.8,0,0,0,4.527-3.719v-.364a3.876,3.876,0,0,0-3.193-3.719,19.119,19.119,0,0,1-5.093-2.1A24.108,24.108,0,0,0,62.635,39.556ZM74.56,6.894a23.6,23.6,0,0,0-23.85,0c-2.628,1.294-4.77,2.425-8.287,2.425-3.638,0-5.659-1.011-8.287-2.425C31.1,5.4,27.79,3.66,22.212,3.66s-8.893,1.7-11.925,3.234A22.509,22.509,0,0,1,5.153,9,3.83,3.83,0,0,0,2,12.674v.283a3.763,3.763,0,0,0,4.527,3.719,29.493,29.493,0,0,0,7.4-2.789c2.628-1.334,4.73-2.425,8.287-2.425s5.659,1.011,8.287,2.425c3.032,1.536,6.346,3.234,11.925,3.234s8.893-1.738,11.925-3.234c2.628-1.294,4.77-2.425,8.287-2.425,3.638,0,5.659,1.011,8.287,2.425a27.989,27.989,0,0,0,7.4,2.83A3.8,3.8,0,0,0,82.847,13v-.364a3.876,3.876,0,0,0-3.193-3.719A20.287,20.287,0,0,1,74.56,6.894ZM62.635,21.568c-5.457,0-8.893,1.738-11.925,3.234-2.628,1.415-4.649,2.425-8.287,2.425s-5.659-1.011-8.287-2.425c-3.032-1.536-6.346-3.234-11.925-3.234S13.319,23.306,10.287,24.8a19.119,19.119,0,0,1-5.093,2.1A3.876,3.876,0,0,0,2,30.622v.364a3.756,3.756,0,0,0,4.527,3.679,29.493,29.493,0,0,0,7.4-2.789c2.628-1.294,4.77-2.425,8.287-2.425s5.659,1.011,8.287,2.425c3.032,1.536,6.346,3.234,11.925,3.234s8.893-1.738,11.925-3.234c2.628-1.294,4.77-2.425,8.287-2.425,3.638,0,5.659,1.011,8.287,2.425a27.989,27.989,0,0,0,7.4,2.83,3.8,3.8,0,0,0,4.527-3.679v-.364a3.876,3.876,0,0,0-3.193-3.719,19.119,19.119,0,0,1-5.093-2.1A23.669,23.669,0,0,0,62.635,21.568Z" transform="translate(6.085 11.135)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="cls-15" transform="matrix(1, 0, 0, 1, 109.08, 1112.61)">
+      <rect id="Rechteck_76-2" data-name="Rechteck 76" class="cls-6" width="1576" height="531" transform="translate(71.92 889.39)"/>
+    </g>
+    <g id="Gruppe_133" data-name="Gruppe 133" transform="translate(-50 93.507)">
+      <path id="Pfad_1-4" data-name="Pfad 1" class="cls-7" d="M69.29-241.389l.082.059,3.846,2.849,3.774,2.968.229.189L80.49-232.6l.622.535,3.046,2.7.413.371,3.444,3.23,3.168,3.148.755.778,2.406,2.533.806.87,2.656,2.963.344.388,2.9,3.43.714.882,2.073,2.6.913,1.182,1.886,2.513.821,1.113,2.514,3.561.466.695,1.977,2.981.892,1.4,1.489,2.393.91,1.5,1.5,2.583.736,1.281,2.006,3.689.8,1.56,1.206,2.383.875,1.8,1.06,2.257.834,1.821,1.178,2.716.5,1.168.621,1.54L128-165.6l.787,2.089.753,2.063.769,2.2.667,2.014.729,2.248,1.119,3.753.681,2.494.472,1.779.637,2.573.394,1.688.6,2.7.249,1.235.56,2.83.554,3.192.14.823.458,3.076.178,1.284.391,3.13.108,1.007.331,3.3a166.826,166.826,0,0,1-69.287,14.966A166.855,166.855,0,0,1,0-120.129,167.551,167.551,0,0,1,69.29-241.389Z" transform="translate(560.578 1898.332) rotate(-180)"/>
+      <text id="Kreativ-4" data-name="Kreativ" class="cls-8" transform="translate(435 2205)"><tspan x="0" y="0">Kreativ</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_4" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna " class="cls-9" transform="translate(345 2247)"><tspan x="41.068" y="16">Lorem ipsum dolor sit amet, </tspan><tspan x="7.432" y="40">consetetur sadipscing elitr, sed diam </tspan><tspan x="16.097" y="64">nonumy eirmod tempor invidunt ut </tspan><tspan x="58.591" y="88">labore et dolore magna </tspan></text>
+    </g>
+    <g id="Gruppe_134" data-name="Gruppe 134" transform="translate(479 93.507)">
+      <path id="Pfad_1-5" data-name="Pfad 1" class="cls-7" d="M69.29-241.389l.082.059,3.846,2.849,3.774,2.968.229.189L80.49-232.6l.622.535,3.046,2.7.413.371,3.444,3.23,3.168,3.148.755.778,2.406,2.533.806.87,2.656,2.963.344.388,2.9,3.43.714.882,2.073,2.6.913,1.182,1.886,2.513.821,1.113,2.514,3.561.466.695,1.977,2.981.892,1.4,1.489,2.393.91,1.5,1.5,2.583.736,1.281,2.006,3.689.8,1.56,1.206,2.383.875,1.8,1.06,2.257.834,1.821,1.178,2.716.5,1.168.621,1.54L128-165.6l.787,2.089.753,2.063.769,2.2.667,2.014.729,2.248,1.119,3.753.681,2.494.472,1.779.637,2.573.394,1.688.6,2.7.249,1.235.56,2.83.554,3.192.14.823.458,3.076.178,1.284.391,3.13.108,1.007.331,3.3a166.826,166.826,0,0,1-69.287,14.966A166.855,166.855,0,0,1,0-120.129,167.551,167.551,0,0,1,69.29-241.389Z" transform="translate(560.578 1898.332) rotate(-180)"/>
+      <text id="Kreativ-5" data-name="Kreativ" class="cls-8" transform="translate(435 2205)"><tspan x="0" y="0">Kreativ</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_5" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna " class="cls-9" transform="translate(345 2247)"><tspan x="41.068" y="16">Lorem ipsum dolor sit amet, </tspan><tspan x="7.432" y="40">consetetur sadipscing elitr, sed diam </tspan><tspan x="16.097" y="64">nonumy eirmod tempor invidunt ut </tspan><tspan x="58.591" y="88">labore et dolore magna </tspan></text>
+    </g>
+    <g id="Gruppe_135" data-name="Gruppe 135" transform="translate(1007 93.507)">
+      <path id="Pfad_1-6" data-name="Pfad 1" class="cls-7" d="M69.29-241.389l.082.059,3.846,2.849,3.774,2.968.229.189L80.49-232.6l.622.535,3.046,2.7.413.371,3.444,3.23,3.168,3.148.755.778,2.406,2.533.806.87,2.656,2.963.344.388,2.9,3.43.714.882,2.073,2.6.913,1.182,1.886,2.513.821,1.113,2.514,3.561.466.695,1.977,2.981.892,1.4,1.489,2.393.91,1.5,1.5,2.583.736,1.281,2.006,3.689.8,1.56,1.206,2.383.875,1.8,1.06,2.257.834,1.821,1.178,2.716.5,1.168.621,1.54L128-165.6l.787,2.089.753,2.063.769,2.2.667,2.014.729,2.248,1.119,3.753.681,2.494.472,1.779.637,2.573.394,1.688.6,2.7.249,1.235.56,2.83.554,3.192.14.823.458,3.076.178,1.284.391,3.13.108,1.007.331,3.3a166.826,166.826,0,0,1-69.287,14.966A166.855,166.855,0,0,1,0-120.129,167.551,167.551,0,0,1,69.29-241.389Z" transform="translate(560.578 1898.332) rotate(-180)"/>
+      <text id="Kreativ-6" data-name="Kreativ" class="cls-8" transform="translate(435 2205)"><tspan x="0" y="0">Kreativ</tspan></text>
+      <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_6" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna " class="cls-9" transform="translate(345 2247)"><tspan x="41.068" y="16">Lorem ipsum dolor sit amet, </tspan><tspan x="7.432" y="40">consetetur sadipscing elitr, sed diam </tspan><tspan x="16.097" y="64">nonumy eirmod tempor invidunt ut </tspan><tspan x="58.591" y="88">labore et dolore magna </tspan></text>
+    </g>
+    <path id="_13467669391579237617-2" data-name="13467669391579237617" class="cls-11" d="M46,0A30.282,30.282,0,0,0,16,30.3c0,10.2,4,18.4,12,23.9V64a4.458,4.458,0,0,0,4.3,4h.4l27.5-2.2a4.206,4.206,0,0,0,3.9-4V54.3a29.8,29.8,0,0,0,12-24C76,13.6,62.4,0,46,0ZM58,48.5A3.946,3.946,0,0,0,56,52v6.1L36,59.7V52a4.1,4.1,0,0,0-1.8-3.5c-6.9-4-10.1-10-10.1-18.2a21.953,21.953,0,1,1,43.9,0C67.9,38.3,64.3,45.1,58,48.5Zm5.6,25.8a4.02,4.02,0,0,1-3.7,4.3l-27.3,2h-.3a4.005,4.005,0,0,1-.3-8l27.3-2A3.906,3.906,0,0,1,63.6,74.3ZM54.9,86.9a4.02,4.02,0,0,1-3.7,4.3l-9.8.8h-.3a4.005,4.005,0,0,1-.3-8l9.9-.8A3.937,3.937,0,0,1,54.9,86.9Zm7-56.7a3.565,3.565,0,0,1-3.5,3.2h-.3A3.474,3.474,0,0,1,55,29.6a7.658,7.658,0,0,0-5-8,3.609,3.609,0,0,1-2.1-4.5A3.377,3.377,0,0,1,52.3,15C56,16.3,62.8,21.2,61.9,30.2Z" transform="translate(395 2110)"/>
+    <g id="_13251028091543238941-2" data-name="13251028091543238941" transform="translate(933 2114.76)">
+      <path id="Pfad_469-2" data-name="Pfad 469" class="cls-12" d="M52.769,34.413V27.942A12.942,12.942,0,0,0,39.827,15H13.942A12.942,12.942,0,0,0,1,27.942v6.471" transform="translate(0 26.827)"/>
+      <circle id="Ellipse_12-2" data-name="Ellipse 12" class="cls-12" cx="13" cy="13" r="13" transform="translate(14 3.24)"/>
+      <path id="Pfad_470-2" data-name="Pfad 470" class="cls-12" d="M29.707,34.123V27.652A12.942,12.942,0,0,0,20,15.13" transform="translate(42.475 27.117)"/>
+      <path id="Pfad_471-2" data-name="Pfad 471" class="cls-12" d="M16,3.13a12.942,12.942,0,0,1,0,25.076" transform="translate(33.533 0.291)"/>
+    </g>
+    <g id="Icons-2" data-name="Icons" transform="translate(1451.404 2101.58)">
+      <g id="Rounded-2" data-name="Rounded" transform="translate(-2 -3)">
+        <g id="Content-2" data-name="Content">
+          <g id="_-Round-_-Content-_-waves-2" data-name="-Round-/-Content-/-waves">
+            <g id="Gruppe_104-2" data-name="Gruppe 104">
+              <path id="Path-2" data-name="Path" class="cls-13" d="M0,0H97.016V97.016H0Z"/>
+              <path id="_Icon-Color-2" data-name="🔹Icon-Color" class="cls-14" d="M62.635,57.544A24.108,24.108,0,0,0,50.71,60.778c-2.628,1.334-4.77,2.425-8.287,2.425-3.638,0-5.659-1.011-8.287-2.425-3.032-1.536-6.346-3.234-11.925-3.234s-8.893,1.7-11.925,3.234a22.509,22.509,0,0,1-5.134,2.1A3.83,3.83,0,0,0,2,66.559v.4a3.8,3.8,0,0,0,4.608,3.679,27.386,27.386,0,0,0,7.317-2.789c2.628-1.334,4.73-2.425,8.287-2.425s5.659,1.011,8.287,2.425c3.032,1.536,6.346,3.234,11.925,3.234s8.893-1.7,11.925-3.234c2.628-1.334,4.77-2.425,8.287-2.425,3.638,0,5.659,1.011,8.287,2.425a27.99,27.99,0,0,0,7.4,2.83A3.8,3.8,0,0,0,82.847,67V66.64a3.876,3.876,0,0,0-3.193-3.719,19.119,19.119,0,0,1-5.093-2.1A23.669,23.669,0,0,0,62.635,57.544Zm0-17.988c-5.457,0-8.893,1.738-11.925,3.234-2.628,1.294-4.77,2.425-8.287,2.425-3.638,0-5.659-1.011-8.287-2.425-3.032-1.536-6.346-3.234-11.925-3.234s-8.893,1.738-11.925,3.234a23.962,23.962,0,0,1-5.174,2.1A3.833,3.833,0,0,0,2,48.57v.4a3.756,3.756,0,0,0,4.527,3.679,29.493,29.493,0,0,0,7.4-2.789c2.628-1.415,4.649-2.425,8.287-2.425s5.659,1.011,8.287,2.425C33.53,51.4,36.845,53.1,42.423,53.1s8.893-1.738,11.925-3.234c2.628-1.415,4.649-2.425,8.287-2.425s5.659,1.011,8.287,2.425a27.989,27.989,0,0,0,7.4,2.83,3.8,3.8,0,0,0,4.527-3.719v-.364a3.876,3.876,0,0,0-3.193-3.719,19.119,19.119,0,0,1-5.093-2.1A24.108,24.108,0,0,0,62.635,39.556ZM74.56,6.894a23.6,23.6,0,0,0-23.85,0c-2.628,1.294-4.77,2.425-8.287,2.425-3.638,0-5.659-1.011-8.287-2.425C31.1,5.4,27.79,3.66,22.212,3.66s-8.893,1.7-11.925,3.234A22.509,22.509,0,0,1,5.153,9,3.83,3.83,0,0,0,2,12.674v.283a3.763,3.763,0,0,0,4.527,3.719,29.493,29.493,0,0,0,7.4-2.789c2.628-1.334,4.73-2.425,8.287-2.425s5.659,1.011,8.287,2.425c3.032,1.536,6.346,3.234,11.925,3.234s8.893-1.738,11.925-3.234c2.628-1.294,4.77-2.425,8.287-2.425,3.638,0,5.659,1.011,8.287,2.425a27.989,27.989,0,0,0,7.4,2.83A3.8,3.8,0,0,0,82.847,13v-.364a3.876,3.876,0,0,0-3.193-3.719A20.287,20.287,0,0,1,74.56,6.894ZM62.635,21.568c-5.457,0-8.893,1.738-11.925,3.234-2.628,1.415-4.649,2.425-8.287,2.425s-5.659-1.011-8.287-2.425c-3.032-1.536-6.346-3.234-11.925-3.234S13.319,23.306,10.287,24.8a19.119,19.119,0,0,1-5.093,2.1A3.876,3.876,0,0,0,2,30.622v.364a3.756,3.756,0,0,0,4.527,3.679,29.493,29.493,0,0,0,7.4-2.789c2.628-1.294,4.77-2.425,8.287-2.425s5.659,1.011,8.287,2.425c3.032,1.536,6.346,3.234,11.925,3.234s8.893-1.738,11.925-3.234c2.628-1.294,4.77-2.425,8.287-2.425,3.638,0,5.659,1.011,8.287,2.425a27.989,27.989,0,0,0,7.4,2.83,3.8,3.8,0,0,0,4.527-3.679v-.364a3.876,3.876,0,0,0-3.193-3.719,19.119,19.119,0,0,1-5.093-2.1A23.669,23.669,0,0,0,62.635,21.568Z" transform="translate(6.085 11.135)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

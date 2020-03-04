@@ -1,0 +1,254 @@
+//Global Settings
+
+@import url('https://rsms.me/inter/inter.css');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+html { font-family: 'Inter', sans-serif; }
+body{ margin: 0; height: 100%; width: 100%;}
+a{ text-decoration: none; color: inherit; }
+
+.roboto{ font-family: 'Roboto Mono'; }
+
+.absolute{ position: absolute; }
+.relative{ position: relative; }
+.left0{ left: 0; }
+.right0{ right: 0; }
+.top0{ top: 0;}
+
+.left{ float: left; }
+.right{ float: right; }
+
+.overflow-hidden{ overflow: hidden; position: relative}
+.b-box{ box-sizing: border-box; }
+.shadow{ box-shadow: 0 1rem 1.5rem rgba(0, 0, 0, 0.1); }
+.border{ border: 1px solid black; }
+
+// Flexbox
+
+.flex{ display: flex; }
+.flex-end{justify-content: flex-end;}
+.space-between{ justify-content: space-between; }
+.space-around{ justify-content: space-around; }
+.flex-center{ justify-content: center; }
+.flex-column{ flex-direction: column; }
+.baseline{ align-items: baseline; }
+.align-center{ align-items: center; }
+
+.cover{ object-fit: cover; }
+
+// Colors
+
+$color-black: #000000;
+$color-white: #FFFFFF;
+$color-primary: #54AAFF;
+$color-second: #C9E4FF;
+$color-dblue: #004487;
+$color-primary-green: #21FADC;
+$color-bg-dark: #3D3D3D;
+$color-bg-medium: #EBEBEB;
+
+
+
+// Typography
+
+.hxl{ font-size: 8rem; margin: 0; }
+.h00{ font-size: 5rem; margin: 0; }
+.h0{ font-size: 4rem; margin: 0; }
+.h05{ font-size: 4.5rem; margin: 0; }
+.h1{ font-size: 3rem; margin: 0; }
+.h2{ font-size: 2rem; margin: 0; }
+.h3{ font-size: 1.5rem; margin: 0; }
+.pxl{ font-size: 1.25rem; margin: 0; }
+.p{ font-size: 1rem; margin: 0; }
+.ps{ font-size: 0.75rem; margin: 0; }
+.pxs{ font-size: 0.5rem; margin: 0; }
+
+.lh1-5{ line-height: 1.5rem; }
+.lh2{ line-height: 2rem; }
+.lh2-5{ line-height: 2.5rem; }
+
+.text-center{ text-align: center; }
+.text-right{ text-align: right; }
+.nowrap{ white-space: nowrap; }
+
+
+.black{ font-weight: 900; }
+.bold{ font-weight: 700; }
+.regular{ font-weight: 400; }
+.light{ font-weight: 300; }
+.thin{ font-weight: 100; }
+
+.italic{ font-style: italic; }
+
+
+.color-b{ color: $color-black; }
+.color-w{ color: $color-white; }
+.color-d{ color: $color-bg-dark; }
+.color-primary{ color: $color-primary; }
+.color-second{ color: $color-second; }
+.color-dblue{ color: $color-dblue; }
+.color-primary-green{ color: $color-primary-green; }
+
+.bg-primary{ background-color: $color-primary; }
+.bg-second{ background-color: $color-second; }
+.bg-dblue{ background-color: $color-dblue; }
+.bg-primary-green{ background-color: $color-primary-green; }
+.bg-white{ background-color: $color-white; }
+.bg-black{ background-color: $color-black; }
+.bg-medium{ background-color: $color-bg-medium; }
+.bg-dark{ background-color: $color-bg-dark; }
+
+
+//Spacing 
+
+.m1{ margin: 1rem; }
+.m1-5{ margin: 1.5rem; }
+.m2{ margin: 2rem; }
+.m3{ margin: 3rem; }
+.m4{ margin: 4rem; }
+.m5{ margin: 5rem; }
+
+.mx-auto{ margin: 0 auto; }
+.my-auto{ margin: auto 0; }
+.m-auto{ margin: auto; }
+
+.mx1{ margin-left: 1rem; margin-right: 1rem; }
+.mx1-5{ margin-left: 1.5rem; margin-right: 1.5rem; }
+.mx2{ margin-left: 2rem; margin-right: 2rem; }
+.mx3{ margin-left: 3rem; margin-right: 3rem; }
+.mx4{ margin-left: 4rem; margin-right: 4rem; }
+.mx5{ margin-left: 5rem; margin-right: 5rem; }
+.mx6{ margin-left: 6rem; margin-right: 6rem; }
+.mx8{ margin-left: 8rem; margin-right: 8rem; }
+.mx12{ margin-left: 12rem; margin-right: 12rem; }
+.mx18{ margin-left: 18rem; margin-right: 18rem; }
+.mx24{ margin-left: 24rem; margin-right: 24rem; }
+
+.my1{ margin-top: 1rem; margin-bottom: 1rem; }
+.my1-5{ margin-top: 1.5rem; margin-bottom: 1.5rem; }
+.my2{ margin-top: 2rem; margin-bottom: 2rem; }
+.my3{ margin-top: 3rem; margin-bottom: 3rem; }
+.my4{ margin-top: 4rem; margin-bottom: 4rem; }
+.my5{ margin-top: 5rem; margin-bottom: 5rem; }
+.my12{ margin-top: 12rem; margin-bottom: 12rem; }
+
+.mb1{ margin-bottom: 1rem; }
+.mb1-5{ margin-bottom: 1.5rem; }
+.mb2{ margin-bottom: 2rem; }
+.mb3{ margin-bottom: 3rem; }
+.mb4{ margin-bottom: 4rem; }
+.mb5{ margin-bottom: 5rem; }
+.mb6{ margin-bottom: 6rem; }
+.mb8{ margin-bottom: 8rem; }
+.mb10{ margin-bottom: 10rem; }
+.mb12{ margin-bottom: 12rem; }
+.mb16{ margin-bottom: 16rem; }
+.mb24{ margin-bottom: 24rem; }
+
+.mt1{ margin-top: 1rem; }
+.mt1-5{ margin-top: 1.5rem; }
+.mt2{ margin-top: 2rem; }
+.mt3{ margin-top: 3rem; }
+.mt4{ margin-top: 4rem; }
+.mt5{ margin-top: 5rem; }
+.mt8{ margin-top: 8rem; }
+.mt12{ margin-top: 12rem; }
+.mt18{ margin-top: 18rem; }
+.mt24{ margin-top: 24rem; }
+
+.ml1{ margin-left: 1rem; }
+.ml1-5{ margin-left: 1.5rem; }
+.ml2{ margin-left: 2rem; }
+.ml3{ margin-left: 3rem; }
+.ml4{ margin-left: 4rem; }
+.ml5{ margin-left: 5rem; }
+.ml8{ margin-left: 8rem; }
+.ml12{ margin-left: 12rem }
+
+.mr1{ margin-right: 1rem; }
+.mr1-5{ margin-right: 1.5rem; }
+.mr2{ margin-right: 2rem; }
+.mr3{ margin-right: 3rem; }
+.mr4{ margin-right: 4rem; }
+.mr5{ margin-right: 5rem; }
+.mr6{ margin-right: 6rem; }
+.mr8{ margin-right: 8rem; }
+.mr12{ margin-right: 12rem; }
+
+.p1{ padding: 1rem }
+.p2{ padding: 2rem }
+.p3{ padding: 3rem }
+.p4{ padding: 4rem }
+.p5{ padding: 5rem }
+.p6{ padding: 6rem }
+
+.pt1{ padding-top: 1rem }
+.pt2{ padding-top: 2rem }
+.pt3{ padding-top: 3rem }
+.pt4{ padding-top: 4rem }
+.pt5{ padding-top: 5rem }
+.pt6{ padding-top: 6rem }
+.pt8{ padding-top: 8rem; }
+
+.pb1{ padding-bottom: 1rem }
+.pb2{ padding-bottom: 2rem }
+.pb3{ padding-bottom: 3rem }
+.pb4{ padding-bottom: 4rem }
+.pb5{ padding-bottom: 5rem }
+.pb6{ padding-bottom: 6rem }
+
+.pl1{ padding-left: 1rem }
+.pl2{ padding-left: 2rem }
+.pl3{ padding-left: 3rem }
+.pl4{ padding-left: 4rem }
+.pl5{ padding-left: 5rem }
+.pl6{ padding-left: 6rem }
+.pl8{ padding-left: 8rem }
+
+.pr1{ padding-right: 1rem }
+.pr2{ padding-right: 2rem }
+.pr3{ padding-right: 3rem }
+.pr4{ padding-right: 4rem }
+.pr5{ padding-right: 5rem }
+.pr6{ padding-right: 6rem }
+.pr8{ padding-right: 8rem }
+
+.px1{ padding: 0 1rem; }
+.px2{ padding: 0 2rem; }
+.px4{ padding: 0 4rem; }
+.px6{ padding: 0 6rem; }
+.px8{ padding: 0 8rem; }
+
+.col-s{width: 480px;}
+.col-m{width: 960px;}
+.col-x{width: 100%;}
+.col-33{width: 640px;}
+.col-66{width: 1270px; }
+
+
+.vh100{ height: 100vh; }
+.vw100{ width: 100vw; }
+
+
+// Buttons
+
+
+// Scrollbar
+
+::-webkit-scrollbar {
+    width:16px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+   opacity: 0;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #999;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }

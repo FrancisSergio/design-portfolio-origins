@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="59" viewBox="0 0 134 59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #707070;
+        font-size: 48px;
+        font-family: Inter-Bold, Inter;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Hallo." class="cls-1" transform="translate(0 47)"><tspan x="0" y="0">Hallo.</tspan></text>
+</svg>

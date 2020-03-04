@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="292" height="363.507" viewBox="0 0 292 363.507">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #3f62a8;
+        stroke-width: 10px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #707070;
+      }
+
+      .cls-2 {
+        font-size: 32px;
+        font-family: Inter-Bold, Inter;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        font-size: 16px;
+        font-family: Inter-Regular, Inter;
+      }
+    </style>
+  </defs>
+  <g id="Gruppe_2" data-name="Gruppe 2" transform="translate(-345 -1998.493)">
+    <path id="Pfad_1" data-name="Pfad 1" class="cls-1" d="M69.29-241.389l.082.059,3.846,2.849,3.774,2.968.229.189L80.49-232.6l.622.535,3.046,2.7.413.371,3.444,3.23,3.168,3.148.755.778,2.406,2.533.806.87,2.656,2.963.344.388,2.9,3.43.714.882,2.073,2.6.913,1.182,1.886,2.513.821,1.113,2.514,3.561.466.695,1.977,2.981.892,1.4,1.489,2.393.91,1.5,1.5,2.583.736,1.281,2.006,3.689.8,1.56,1.206,2.383.875,1.8,1.06,2.257.834,1.821,1.178,2.716.5,1.168.621,1.54L128-165.6l.787,2.089.753,2.063.769,2.2.667,2.014.729,2.248,1.119,3.753.681,2.494.472,1.779.637,2.573.394,1.688.6,2.7.249,1.235.56,2.83.554,3.192.14.823.458,3.076.178,1.284.391,3.13.108,1.007.331,3.3a166.826,166.826,0,0,1-69.287,14.966A166.855,166.855,0,0,1,0-120.129,167.551,167.551,0,0,1,69.29-241.389Z" transform="translate(560.578 1898.332) rotate(-180)"/>
+    <text id="Kreativ" class="cls-2" transform="translate(435 2205)"><tspan x="0" y="0">Kreativ</tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consetetur_sadipscing_elitr_sed_diam_nonumy_eirmod_tempor_invidunt_ut_labore_et_dolore_magna_" data-name="Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna " class="cls-3" transform="translate(345 2247)"><tspan x="41.068" y="16">Lorem ipsum dolor sit amet, </tspan><tspan x="7.432" y="40">consetetur sadipscing elitr, sed diam </tspan><tspan x="16.097" y="64">nonumy eirmod tempor invidunt ut </tspan><tspan x="58.591" y="88">labore et dolore magna </tspan></text>
+  </g>
+</svg>

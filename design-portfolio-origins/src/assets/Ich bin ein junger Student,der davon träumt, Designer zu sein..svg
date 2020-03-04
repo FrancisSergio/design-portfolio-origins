@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="422" height="117" viewBox="0 0 422 117">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #707070;
+        font-size: 32px;
+        font-family: Inter-Regular, Inter;
+      }
+    </style>
+  </defs>
+  <text id="Ich_bin_ein_junger_Student_der_davon_träumt_Designer_zu_sein." data-name="Ich bin ein junger Student,
+der davon träumt, Designer 
+zu sein." class="cls-1" transform="translate(0 31)"><tspan x="0" y="0">Ich bin ein junger Student,</tspan><tspan x="0" y="39">der davon träumt, Designer </tspan><tspan x="0" y="78">zu sein.</tspan></text>
+</svg>

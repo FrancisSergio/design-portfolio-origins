@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="188.225" viewBox="0 0 256 188.225">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #48b884;
+      }
+
+      .cls-2 {
+        fill: #3f7f70;
+      }
+
+      .cls-3 {
+        fill: #36495d;
+      }
+    </style>
+  </defs>
+  <g id="_19178019181551942630" data-name="19178019181551942630" transform="translate(0 -0.001)">
+    <path id="Pfad_481" data-name="Pfad 481" class="cls-1" d="M109.777,0,0,188.226H219.553Z"/>
+    <path id="Pfad_482" data-name="Pfad 482" class="cls-2" d="M72.836,188.226H256L164.418,31.2Z"/>
+    <path id="Pfad_483" data-name="Pfad 483" class="cls-3" d="M72.836,188.226H219.552L146.194,62.444Z"/>
+  </g>
+</svg>
